@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creo archivo activ3.txt en la rama
 Otro texto 
+=======
+Creo archivo activ3.txt en actividad3
+Otro texto
+>>>>>>> actividad3
